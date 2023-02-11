@@ -1,6 +1,6 @@
 from string import ascii_lowercase, digits
 
-# здесь объявляйте классы TextInput и PasswordInput!!!!
+# здесь объявляйте классы TextInput и PasswordInput!!!!!
 
 
 class FormLogin:
